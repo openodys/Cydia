@@ -1,0 +1,7 @@
+Orgin: Odys Group
+Label: Odys Repo
+Suite: Stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: Odys Cydia repo
